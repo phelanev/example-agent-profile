@@ -7,5 +7,6 @@
   "average_latency_ms": 150,
   "safety_grade": "A",
   "endpoint_url": "https://example.com/agent",
-  "evals": []
+  "evals": [],
+  "_indexing_hint": true
 }
